@@ -32,7 +32,7 @@
 ## ✉️ Contato
 
 - 📧 Email: [matheuspatriotaandrade@gmail.com](mailto:matheuspatriotaandrade@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/math-p/](https://www.linkedin.com/in/math-p/) *(se tiver)*
+- 💼 LinkedIn: [https://www.linkedin.com/in/math-p/](https://www.linkedin.com/in/math-p/) 
 
 ---
 
